@@ -1,0 +1,14 @@
+{
+  "name": "latihan-api",
+  "version": "1.0.0",
+  "description": "latihan api menggunakan nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alinda Putri Ayu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
